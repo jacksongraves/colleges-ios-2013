@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="1171" systemVersion="11E53" minimumToolsVersion="Xcode 4.1" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="College" syncable="YES">
+        <attribute name="acc" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="actComp" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="add" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="admis" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="afAm" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="app" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="asian" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="att" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="avHSGPA" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bkSup" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cal" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cauc" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cClass" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cLab" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="countRep" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="expense" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="favoriteStatus" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="fax" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="finAid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="frat" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="grad4" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="grad6" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="hisp" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="intNat" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="inTuit" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="liveCamp" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="mF" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nA" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="outState" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="outTuit" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="popMaj" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pubHS" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rBoard" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="region" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="reqFees" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="satCritRead" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="satMath" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="satWrite" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="schoolSize" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sor" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="state" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="studFac" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="studRecFinAid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="top10" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="top25" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="top50" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="totCost" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="totUndEn" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="tuit" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="type" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="web" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="College" positionX="160" positionY="192" width="128" height="855"/>
+    </elements>
+</model>
